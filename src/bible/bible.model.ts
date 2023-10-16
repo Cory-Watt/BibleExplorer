@@ -1,4 +1,4 @@
-// Define an interface for a Bible verse.
+//interface for Bible
 export interface Verse {
     id: number;
     book: string;          // Name of the book
